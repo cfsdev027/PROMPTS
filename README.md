@@ -6,7 +6,6 @@ Guias, boas práticas e documentações essenciais para engenharia de prompts e 
 
 ## Modelo XML para configuração de agente de IA:
 
-´
 <agent_configuration version="1.0">
     <identity>
         <name>NomeDoAgente</name>
@@ -47,4 +46,3 @@ Guias, boas práticas e documentações essenciais para engenharia de prompts e 
         <current_date>{{CURRENT_DATE}}</current_date>
     </variables>
 </agent_configuration>
-´
