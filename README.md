@@ -6,6 +6,7 @@ Guias, boas práticas e documentações essenciais para engenharia de prompts e 
 
 ## Modelo XML para configuração de agente de IA:
 
+```xml
 <agent>
    <configuration>
       <version>"1.0"</version>
