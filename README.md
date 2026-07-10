@@ -44,6 +44,7 @@ Guias, boas práticas e documentações essenciais para engenharia de prompts e 
       </variables>
    </configuration>
 </agent>
+```
 
 # Organização e fluxo de informação
 Esta seção descreve a estrutura organizacional, os papéis essenciais e o fluxo end-to-end de valor e informação dentro da Software House. O modelo adota práticas ágeis modernas, com forte inspiração no framework Scrum e nos princípios do *Lean Software Development* (Poppendieck), visando a alta performance, previsibilidade de entrega e otimização de custos operacionais.
